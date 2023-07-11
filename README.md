@@ -14,12 +14,17 @@ This recommender system combines multiple approaches to provide accurate and div
 
 The system allows users to input movie titles and choose a recommendation method to generate personalized recommendations.
 
-## How to Use
+## Hugging Face Model
+
+You can access the pre-trained recommender system model on Hugging Face Model Hub.
+
+- [Recommender System Model](https://huggingface.co/spaces/Mahziar/Mahziar-Recommender-System): Access the pre-trained recommender system model on Hugging Face Model Hub.
+
+## How to Use the code
 
 To use the recommender system, follow these steps:
 
 1. Install the required dependencies by running the following command:
-
 
 2. Download the movie dataset from the following link: [Movie Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). Place the dataset files (`movies_metadata.csv`, `ratings.csv`, `links.csv`) in the same directory as the recommender system code.
 
