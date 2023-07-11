@@ -2,6 +2,9 @@
 
 This recommender system utilizes collaborative filtering, content-based filtering, and clustering methods to provide personalized movie recommendations.
 
+![Alt Text](Image.png)
+
+
 ## Overview
 
 This recommender system combines multiple approaches to provide accurate and diverse movie recommendations. The system utilizes the following methods:
